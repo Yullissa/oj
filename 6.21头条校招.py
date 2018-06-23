@@ -1,10 +1,11 @@
 import sys
 import traceback
+# 贪心算法解决问题
 
 n = int(input().strip())
 b = sys.stdin.readline().strip().split(" ")
-c = sorted(b, key=int)
-cur = int(c[0])
+c = list(map(int,sorted(b, key=int)))
+cur = c[0]
 proSize = 1
 totalNum = 0
 i = 1
@@ -12,7 +13,7 @@ if (len(c) == 1 or len(c) == 0):
     print(2)
 else:
     while (i < len(c)):
-        if int(c[i]) <= cur + 10:
+        if c[i] <= cur + 10:
             proSize += 1
         else:
             totalNum += 3 - proSize
@@ -21,11 +22,11 @@ else:
             if (i + 1 < len(c)):
                 i = i + 1
                 proSize = 1
-                cur = int(c[i])
+                cur =c[i]
             else:
                 break
         else:
-            cur = int(c[i])
+            cur = c[i]
             i += 1
     if (proSize != 0):
         totalNum += 3 - proSize
