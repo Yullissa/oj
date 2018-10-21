@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec1a5dbf-1336-4d36-8e13-73f9f94cb2f3" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode003LongestSubstringWithoutRepeatingCharacters.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode11ContainerWtih Most water.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode12. Integer to Roman.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode2AddTwoNumbers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode5LongestPalindromicSubstring.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode6ZigZagCode.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode841KeysandRooms.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode861. Score After Flipping Matrix.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode863All Nodes Distance K in Binary Tree.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode865. Smallest Subtree with all the Deepest Nodes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode866. Prime Palindrome.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode869. Reordered Power of 2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode870. Advantage Shuffle.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode873LengthofLongestFibonacciSequence.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode881BoatstoSavepeople.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode894AllPossibleFBT.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode909SnakesandLadders.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode911OnlineElection.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode915Partition Array into Disjoint Intervals.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcode916wordsubsets.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.8/leetcodef921921. Minimum Add to Make Parentheses Valid.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.15进制均值.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.15集合.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.21头条校招.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.21最强大脑.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.22K个最小的数.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.22geohash编码.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.22倒置字符串.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.22删除字符.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.22数字和为sum的方案数.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.22最长数字串.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.22求和.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.22游戏任务标记.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.22素数对.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.22编码.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.22超过半数的数.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.23买苹果.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.23地下迷宫.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.23数字翻转.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.23最大奇约数.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.23末尾0的个数.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.23计算糖果.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.23进制转换.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.23连续子数组.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.23餐馆.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.24优雅的点.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.24回文序列.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.24数字游戏.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.24暗黑的字符串.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.24构造队列.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.24洗牌.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.24跳石板.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.25两种排序方式.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.25喜欢的单词.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.25数字游戏.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.25斐波那契.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.26不要二.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.26幸运的袋子.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.26统计回文.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.26解救小易.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.26饥饿的小易.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.27混合颜料.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.28下厨房.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.28分苹果.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.28彩色宝石项链.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.28数列还原.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.28星际穿越.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.28树的高度.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.15-6.28/6.28藏宝图.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode848. Shifting Letters.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode851. Loud and Rich.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode853. Car Fleet.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode855. Exam Room.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode856. Score of Parentheses.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode918. Maximum Sum Circular Subarray.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode923. 3Sum With Multiplicity.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/oj.iml" afterPath="$PROJECT_DIR$/.idea/oj.iml" />
+      <change beforePath="$PROJECT_DIR$/6.15进制均值.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.15集合.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.21头条校招.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.21最强大脑.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.22K个最小的数.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.22geohash编码.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.22倒置字符串.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.22删除字符.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.22数字和为sum的方案数.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.22最长数字串.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.22求和.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.22游戏任务标记.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.22素数对.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.22编码.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.22超过半数的数.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.23买苹果.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.23地下迷宫.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.23数字翻转.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.23最大奇约数.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.23末尾0的个数.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.23计算糖果.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.23进制转换.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.23连续子数组.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.23餐馆.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.24优雅的点.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.24回文序列.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.24数字游戏.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.24暗黑的字符串.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.24构造队列.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.24洗牌.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.24跳石板.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6.25数字游戏.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/hiho1815中位数.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/hiho_w124_SortingPhotoFiles.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/hiho_w125_CircleDetect.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/kick2018AA.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/kick2018ABLuckyDip.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/leetcode888FairCandySwap.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/leetcode_556. Next Greater ElementIII.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/python.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/temp.cpp" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file leaf-file-name="leetcode853. Car Fleet.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.13/leetcode853. Car Fleet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode851. Loud and Rich.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.13/leetcode851. Loud and Rich.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode848. Shifting Letters.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.13/leetcode848. Shifting Letters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode846. Hand of Straights.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.13/leetcode846. Hand of Straights.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode845. Longest Mountain in Array.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.13/leetcode845. Longest Mountain in Array.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-684">
+              <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode842. Split Array into Fibonacci Sequence.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.13/leetcode842. Split Array into Fibonacci Sequence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode698. Partition to K Equal Sum Subsets.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10.13/leetcode698. Partition to K Equal Sum Subsets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode779. K-th Symbol in Grammar.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.13/leetcode779. K-th Symbol in Grammar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="copy.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/APP/Anaconda3/envs/py27/Lib/copy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode687. Longest Univalue Path.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.13/leetcode687. Longest Univalue Path.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1368">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="ojtemplete" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rawInd</find>
+      <find>    </find>
+      <find>kerenB</find>
+      <find />
+      <find> </find>
+      <find>heap</find>
+      <find>xrange</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>col</replace>
+      <replace>raw</replace>
+      <replace />
+      <replace>kerenB</replace>
+      <replace>keren</replace>
+      <replace>flagLen</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/temp.cpp" />
+        <option value="$PROJECT_DIR$/hello.py" />
+        <option value="$PROJECT_DIR$/hiho_w124_SortingPhotoFiles.py" />
+        <option value="$PROJECT_DIR$/hiho_w125_CircleDetect.py" />
+        <option value="$PROJECT_DIR$/leetcode_556. Next Greater ElementIII.py" />
+        <option value="$PROJECT_DIR$/leetcode888FairCandySwap.py" />
+        <option value="$PROJECT_DIR$/hiho1815中位数.py" />
+        <option value="$PROJECT_DIR$/kick2018AA.py" />
+        <option value="$PROJECT_DIR$/B-small-practice.in" />
+        <option value="$PROJECT_DIR$/kick2018ABLuckyDip.py" />
+        <option value="$PROJECT_DIR$/leetcode692TopKFrequentWords.py" />
+        <option value="$PROJECT_DIR$/leetcode215KthLargestElementArray.py" />
+        <option value="$PROJECT_DIR$/leetcode451SortCharactersByFrequency.py" />
+        <option value="$PROJECT_DIR$/leetcode898BitwiseORsofSubarrays.py" />
+        <option value="$PROJECT_DIR$/leetcode880decodeString.py" />
+        <option value="$PROJECT_DIR$/910SmallestRangeii.py" />
+        <option value="$PROJECT_DIR$/leetcode486PredtictWinner.py" />
+        <option value="$PROJECT_DIR$/leetcode003LongestSubstringWithoutRepeatingCharacters.py" />
+        <option value="$PROJECT_DIR$/leetcode5LongestPalindromicSubstring.py" />
+        <option value="$PROJECT_DIR$/leetcode909SnakesandLadders.py" />
+        <option value="$PROJECT_DIR$/leetcode841KeysandRooms.py" />
+        <option value="$PROJECT_DIR$/leetcode911OnlineElection.py" />
+        <option value="$PROJECT_DIR$/leetcode915Partition Array into Disjoint Intervals.py" />
+        <option value="$PROJECT_DIR$/leetcode916wordsubsets.py" />
+        <option value="$PROJECT_DIR$/leetcode881BoatstoSavepeople.py" />
+        <option value="$PROJECT_DIR$/leetcode894AllPossibleFBT.py" />
+        <option value="$PROJECT_DIR$/leetcode873LengthofLongestFibonacciSequence.py" />
+        <option value="$PROJECT_DIR$/leetcode870. Advantage Shuffle.py" />
+        <option value="$PROJECT_DIR$/leetcode869. Reordered Power of 2.py" />
+        <option value="$PROJECT_DIR$/leetcode866. Prime Palindrome.py" />
+        <option value="$PROJECT_DIR$/leetcode865. Smallest Subtree with all the Deepest Nodes.py" />
+        <option value="$PROJECT_DIR$/leetcode2AddTwoNumbers.py" />
+        <option value="$PROJECT_DIR$/leetcode6ZigZagCode.py" />
+        <option value="$PROJECT_DIR$/leetcode11ContainerWtih Most water.py" />
+        <option value="$PROJECT_DIR$/leetcode12. Integer to Roman.py" />
+        <option value="$PROJECT_DIR$/leetcode863All Nodes Distance K in Binary Tree.py" />
+        <option value="$PROJECT_DIR$/leetcode861. Score After Flipping Matrix.py" />
+        <option value="$PROJECT_DIR$/leetcodef921921. Minimum Add to Make Parentheses Valid.py" />
+        <option value="$PROJECT_DIR$/leetcode856. Score of Parentheses.py" />
+        <option value="$PROJECT_DIR$/leetcode918. Maximum Sum Circular Subarray.py" />
+        <option value="$PROJECT_DIR$/leetcode923. 3Sum With Multiplicity.py" />
+        <option value="$PROJECT_DIR$/leetcode855. Exam Room.py" />
+        <option value="$PROJECT_DIR$/leetcode853. Car Fleet.py" />
+        <option value="$PROJECT_DIR$/leetcode851. Loud and Rich.py" />
+        <option value="$PROJECT_DIR$/leetcode848. Shifting Letters.py" />
+        <option value="$PROJECT_DIR$/leetcode846. Hand of Straights.py" />
+        <option value="$PROJECT_DIR$/leetcode845. Longest Mountain in Array.py" />
+        <option value="$PROJECT_DIR$/leetcode842. Split Array into Fibonacci Sequence.py" />
+        <option value="$PROJECT_DIR$/leetcode687. Longest Univalue Path.py" />
+        <option value="$PROJECT_DIR$/leetcode779. K-th Symbol in Grammar.py" />
+        <option value="$PROJECT_DIR$/leetcode698. Partition to K Equal Sum Subsets.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1117" />
+    <option name="width" value="1150" />
+    <option name="height" value="1459" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="oj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oj" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.splitter.proportion" value="0.2836439" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\py\oj" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\py\oj\10.13" />
+      <recent name="E:\code\py\oj\10.8" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.leetcode698. Partition to K Equal Sum Subsets">
+    <configuration name="6.26统计回文" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="oj" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.26统计回文.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="6.26解救小易" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="oj" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.26解救小易.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="6.26不要二" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="oj" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.26不要二.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="6.26幸运的袋子" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="oj" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.26幸运的袋子.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="6.27混合颜料" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="oj" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.27混合颜料.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="910SmallestRangeii" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="oj" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/910SmallestRangeii.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="oj" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="leetcode687. Longest Univalue Path" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="oj" />
+      <option name="SCRIPT_NAME" value="E:\code\py\oj\10.13\leetcode687. Longest Univalue Path.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="leetcode692TopKFrequentWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="oj" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode692TopKFrequentWords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="leetcode698. Partition to K Equal Sum Subsets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="oj" />
+      <option name="SCRIPT_NAME" value="E:\code\py\oj\10.13\leetcode698. Partition to K Equal Sum Subsets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="leetcode6ZigZagCode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="oj" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode6ZigZagCode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="leetcode842. Split Array into Fibonacci Sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="oj" />
+      <option name="SCRIPT_NAME" value="E:\code\py\oj\10.13\leetcode842. Split Array into Fibonacci Sequence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="leetcode848. Shifting Letters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="oj" />
+      <option name="SCRIPT_NAME" value="E:\code\py\oj\10.13\leetcode848. Shifting Letters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="leetcode898BitwiseORsofSubarrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9.22" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="oj" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.22/leetcode898BitwiseORsofSubarrays.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="leetcode915Partition Array into Disjoint Intervals" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="oj" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode915Partition Array into Disjoint Intervals.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="pydevd_utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="oj" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.leetcode6ZigZagCode" />
+      <item index="1" class="java.lang.String" itemvalue="Python.leetcode848. Shifting Letters" />
+      <item index="2" class="java.lang.String" itemvalue="Python.leetcode842. Split Array into Fibonacci Sequence" />
+      <item index="3" class="java.lang.String" itemvalue="Python.leetcode687. Longest Univalue Path" />
+      <item index="4" class="java.lang.String" itemvalue="Python.leetcode698. Partition to K Equal Sum Subsets" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.leetcode698. Partition to K Equal Sum Subsets" />
+        <item index="1" class="java.lang.String" itemvalue="Python.leetcode687. Longest Univalue Path" />
+        <item index="2" class="java.lang.String" itemvalue="Python.leetcode842. Split Array into Fibonacci Sequence" />
+        <item index="3" class="java.lang.String" itemvalue="Python.leetcode848. Shifting Letters" />
+        <item index="4" class="java.lang.String" itemvalue="Python.leetcode6ZigZagCode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec1a5dbf-1336-4d36-8e13-73f9f94cb2f3" name="Default" comment="" />
+      <created>1529591879045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529591879045</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1529592368733</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529592368733</updated>
+    </task>
+    <task id="LOCAL-00002" summary="6.21">
+      <created>1529596854726</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529596854726</updated>
+    </task>
+    <task id="LOCAL-00003" summary="6.22 AC 记得每次加try &amp;&amp; 考虑清楚abnormal 的用例">
+      <created>1529599658116</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1529599658116</updated>
+    </task>
+    <task id="LOCAL-00004" summary="6.22 13道OJ">
+      <created>1529717740140</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1529717740140</updated>
+    </task>
+    <task id="LOCAL-00005" summary="6.23 9道OJ">
+      <created>1529812650429</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529812650429</updated>
+    </task>
+    <task id="LOCAL-00006" summary="6.24 7道OJ">
+      <created>1529893950905</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1529893950906</updated>
+    </task>
+    <task id="LOCAL-00007" summary="6.24 6道OJ">
+      <created>1529894019439</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1529894019439</updated>
+    </task>
+    <task id="LOCAL-00008" summary="9.19 7道OJ">
+      <created>1537314813571</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1537314813571</updated>
+    </task>
+    <task id="LOCAL-00009" summary="9.19 7道OJ">
+      <created>1540033047480</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1540033047480</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-12" y="-12" width="2280" height="1472" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18034264" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.306677" sideWeight="0.5018034" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873377" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16883117" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24977458" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04383117" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0064935065" sideWeight="0.49819657" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.306677" sideWeight="0.5018034" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873377" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3806818" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16952209" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24977458" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5073052" sideWeight="0.49819657" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <MESSAGE value="6.21" />
+    <MESSAGE value="6.22 AC 记得每次加try &amp;&amp; 考虑清楚abnormal 的用例" />
+    <MESSAGE value="6.22 13道OJ" />
+    <MESSAGE value="6.23 9道OJ" />
+    <MESSAGE value="6.24 7道OJ" />
+    <MESSAGE value="6.24 6道OJ" />
+    <MESSAGE value="9.19 7道OJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.19 7道OJ" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/9.22/leetcode898BitwiseORsofSubarrays.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10.13/leetcode698. Partition to K Equal Sum Subsets.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="185" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="i" />
+        <watch expression="p" language="Python" />
+        <watch expression="c" language="Python" />
+        <watch expression="height[c]" language="Python" />
+        <watch expression="height[p]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>height[c]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>c</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>height[p]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>p</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arrtemp[k]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arr[i]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arr</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/B-large-practice.in" />
+    <entry file="file://$PROJECT_DIR$/kick2018ABLuckyDip.py" />
+    <entry file="file://$PROJECT_DIR$/leetcode692TopKFrequentWords.py" />
+    <entry file="file://$PROJECT_DIR$/leetcode215KthLargestElementArray.py" />
+    <entry file="file://$PROJECT_DIR$/leetcode451SortCharactersByFrequency.py" />
+    <entry file="file://$PROJECT_DIR$/leetcode898BitwiseORsofSubarrays.py" />
+    <entry file="file://$PROJECT_DIR$/leetcode880decodeString.py" />
+    <entry file="file://$PROJECT_DIR$/910SmallestRangeii.py" />
+    <entry file="file://$PROJECT_DIR$/leetcode486PredtictWinner.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/945961510/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184500">
+          <caret line="5125" column="10" lean-forward="false" selection-start-line="5125" selection-start-column="4" selection-end-line="5125" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/APP/Anaconda3/envs/py27/Lib/site-packages/requests/cookies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6588">
+          <caret line="189" column="8" lean-forward="false" selection-start-line="189" selection-start-column="8" selection-end-line="189" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.22/leetcode898BitwiseORsofSubarrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode911OnlineElection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode841KeysandRooms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.22/leetcode888FairCandySwap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode909SnakesandLadders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode5LongestPalindromicSubstring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode003LongestSubstringWithoutRepeatingCharacters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode915Partition Array into Disjoint Intervals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1082">
+          <caret line="227" column="30" lean-forward="false" selection-start-line="227" selection-start-column="30" selection-end-line="227" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/APP/Anaconda3/envs/py27/Lib/collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode916wordsubsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode881BoatstoSavepeople.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode894AllPossibleFBT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode873LengthofLongestFibonacciSequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode870. Advantage Shuffle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode869. Reordered Power of 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode866. Prime Palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode865. Smallest Subtree with all the Deepest Nodes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="23" column="40" lean-forward="false" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode2AddTwoNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode6ZigZagCode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode11ContainerWtih Most water.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode12. Integer to Roman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="92" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="10" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode863All Nodes Distance K in Binary Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcode861. Score After Flipping Matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.8/leetcodef921921. Minimum Add to Make Parentheses Valid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.13/leetcode856. Score of Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.13/leetcode918. Maximum Sum Circular Subarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="25" column="45" lean-forward="false" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/APP/Anaconda3/envs/py27/Lib/bisect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="85" column="13" lean-forward="false" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.13/leetcode923. 3Sum With Multiplicity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.13/leetcode855. Exam Room.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.13/leetcode853. Car Fleet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.13/leetcode851. Loud and Rich.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.13/leetcode848. Shifting Letters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.13/leetcode846. Hand of Straights.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.13/leetcode687. Longest Univalue Path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.13/leetcode845. Longest Mountain in Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-684">
+          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.13/leetcode842. Split Array into Fibonacci Sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/APP/Anaconda3/envs/py27/Lib/copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.13/leetcode779. K-th Symbol in Grammar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.13/leetcode698. Partition to K Equal Sum Subsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
